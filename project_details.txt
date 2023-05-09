@@ -1,0 +1,17 @@
+Here is Assignment
+
+
+Create one Api project and following api require
+
+Database Table
+
+1. User Table : name, salary, dob, photo, status
+
+Api List
+
+1. Create User following field (name, salary, dob, photo, status), Image should be upload
+2. List User Api
+3. Login Api with JWT
+4. Get Profile detail by Login Token
+
+Please complete this assignment and upload on GitHub and send me link
